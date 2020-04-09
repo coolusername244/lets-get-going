@@ -1,4 +1,4 @@
-#Welcome to Lets Get Going
+# Welcome to Lets Get Going
 ---
-###What is 'Lets Get Going' about?
+### What is 'Lets Get Going' about?
 
